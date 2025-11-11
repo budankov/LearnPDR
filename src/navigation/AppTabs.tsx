@@ -11,8 +11,8 @@ const AppBottomTabs = () => {
     <Tab.Navigator
       screenOptions={{
         headerShown: false,
-        tabBarActiveTintColor: "yellow",
-        tabBarInactiveTintColor: "gray",
+        tabBarActiveTintColor: "#42f700",
+        tabBarInactiveTintColor: "#fff",
         // headerRight: () => <HomeIcon />,
         // headerLeft: () => <BackButton />,
         // headerTitle: () => <CustomTitle />,
@@ -23,7 +23,7 @@ const AppBottomTabs = () => {
         },
         tabBarStyle: {
           height: 70,
-          backgroundColor: "red",
+          backgroundColor: "#000000",
           borderTopWidth: 0,
           elevation: 0,
           shadowOpacity: 0,

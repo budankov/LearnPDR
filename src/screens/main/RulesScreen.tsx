@@ -1,13 +1,20 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
 
 const RulesScreen = () => {
   return (
-    <View>
+    <SafeAreaView style={styles.safeArea}>
       <Text>RulesScreen</Text>
-    </View>
+    </SafeAreaView>
   );
 };
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+  safeArea: {
+    flex: 1,
+    backgroundColor: "white",
+    // paddingTop: IS_ANDROID ? StatusBar.currentHeight || 0 : 0,
+  },
+});
 
 export default RulesScreen;
