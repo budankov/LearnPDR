@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="135"
+   id="svg106"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="1.29.svg"
+   sodipodi:version="0.32"
+   version="1.0"
+   width="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Попереджувальні знаки » Дорожні знаки » ПДР Тест Центр</title>
+  <metadata
+     id="metadata106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>&#10;					image/svg+xml&#10;				</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Попереджувальні знаки » Дорожні знаки » ПДР Тест Центр</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ПДР Тест Центр | PDR Test Center</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>ПДР Тест Центр | PDR Test Center</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>uk-UA</dc:language>
+        <dc:date>2023-09-01</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>https://pdrtest.com/</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://pdrtest.com/driver/rules/section/33.1</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs106">
+    <inkscape:perspective
+       id="perspective106"
+       inkscape:persp3d-origin="372.04724 : 362.19364 : 1"
+       inkscape:vp_x="0 : 537.58734 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 537.58734 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2475"
+       inkscape:persp3d-origin="372.04724 : 362.19364 : 1"
+       inkscape:vp_x="0 : 537.58734 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 537.58734 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     id="base"
+     inkscape:current-layer="svg106"
+     inkscape:cx="99.499403"
+     inkscape:cy="94.454853"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="1009"
+     inkscape:window-width="1920"
+     inkscape:zoom="2.8743891"
+     objecttolerance="10.0"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+     id="g3205"
+     transform="translate(4.9948952,5.7347713)"
+     inkscape:label="sign_1_29">
+    <path
+       d="m 33.3125,-0.03125 -33.34375,4.5 L 6.4375,36.90625 49.6875,61.875 6.5,86.78125 6.4375,86.8125 V 86.875 L 0,118.9375 l -0.03125,0.15625 0.15625,0.0312 33.125,4.4375 h 0.0625 l 0.03125,-0.0312 61.5,-35.4375 61.6875,35.46875 33.5,-4.46875 -6.75,-32.28125 -43.15625,-24.9375 43.15625,-24.96875 6.75,-32.4375 -33.5,-4.5 L 94.84375,35.75 Z M 33.28125,123.25 Z"
+       id="path3188"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="bg" />
+    <path
+       d="M 32.363188,4.9497445 5.5763342,8.4899953 10.745727,33.710366 59.338019,61.875724 10.745727,89.915764 5.5763342,115.07348 32.363188,118.77037 94.803186,82.647284 157.24318,118.77037 184.03004,115.07348 178.86065,89.915764 130.26835,61.875724 178.86065,33.710366 184.03004,8.4899953 157.24318,4.9497445 94.803186,41.072835 Z m -3.101636,12.0619165 65.541634,37.94021 65.541634,-37.94021 10.7774,1.472494 -1.25318,6.798534 -63.00394,36.593035 63.00394,36.561705 1.25318,7.080501 -10.7774,1.37851 L 94.803186,69.050215 29.261552,106.89644 18.484151,105.51793 19.737337,98.437429 82.74127,61.875724 19.737337,25.282689 18.484151,18.484155 Z"
+       id="path2486"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd"
+       inkscape:label="red" />
+  </g>
+</svg>

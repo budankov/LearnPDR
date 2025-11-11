@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="195"
+   id="svg104"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="1.31.3.svg"
+   sodipodi:version="0.32"
+   version="1.0"
+   width="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Попереджувальні знаки » Дорожні знаки » ПДР Тест Центр</title>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     id="base"
+     inkscape:current-layer="svg104"
+     inkscape:cx="21.213204"
+     inkscape:cy="104.47503"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="1009"
+     inkscape:window-width="1920"
+     inkscape:zoom="2.8284271"
+     objecttolerance="10.0"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>&#10;					image/svg+xml&#10;				</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Попереджувальні знаки » Дорожні знаки » ПДР Тест Центр</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ПДР Тест Центр | PDR Test Center</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>ПДР Тест Центр | PDR Test Center</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>uk-UA</dc:language>
+        <dc:date>2023-09-01</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>https://pdrtest.com/</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://pdrtest.com/driver/rules/section/33.1</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs104">
+    <inkscape:perspective
+       id="perspective104"
+       inkscape:persp3d-origin="372.04724 : 356.17522 : 1"
+       inkscape:vp_x="0 : 531.56892 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 531.56892 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <g
+     id="g4704"
+     style="fill-rule:evenodd"
+     transform="matrix(-7.0458353,0,0,7.0458353,-1285.5713,262.32436)"
+     inkscape:label="sign_1_31_3">
+    <path
+       class="fil0 str0"
+       d="m -193.68046,-36.133417 h 8.96126 c 0.77486,0 1.37004,0.66256 1.37004,1.459877 v 22.571988 c 0,0.808547 -0.59518,1.482292 -1.37004,1.482292 h -8.96126 c -0.76376,0 -1.39263,-0.673745 -1.39263,-1.482292 V -34.67354 c 0,-0.797317 0.62887,-1.459877 1.39263,-1.459877 z"
+       id="_146766032"
+       style="fill:#ffffff;stroke:none;stroke-width:0.0383205"
+       inkscape:label="bg" />
+    <path
+       d="m -195.04286,-28.519597 11.68593,6.782857 v 3.447556 l -11.68593,-6.760398 z"
+       id="_143876992"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.442119"
+       inkscape:label="red" />
+    <path
+       class="fil0 str0"
+       d="m -193.66923,-36.15024 h 8.96126 c 0.77486,0 1.37004,0.66256 1.37004,1.459877 v 22.571988 c 0,0.808547 -0.59518,1.482292 -1.37004,1.482292 h -8.96126 c -0.76376,0 -1.39263,-0.673745 -1.39263,-1.482292 v -22.571988 c 0,-0.797317 0.62887,-1.459877 1.39263,-1.459877 z"
+       id="_146766032-6"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.283856;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="border" />
+  </g>
+</svg>
