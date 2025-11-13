@@ -1,8 +1,9 @@
 import { Feather } from "@expo/vector-icons";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import RulesScreen from "../screens/main/RulesScreen";
 import SettingsScreen from "../screens/main/SettingsScreen";
 import TestsScreen from "../screens/main/TestsScreen";
+import { colors } from "../styles/colors";
+import TheoryStack from "./TheoryStack";
 
 const Tab = createBottomTabNavigator();
 
@@ -11,7 +12,7 @@ const AppBottomTabs = () => {
     <Tab.Navigator
       screenOptions={{
         headerShown: false,
-        tabBarActiveTintColor: "#42f700",
+        tabBarActiveTintColor: "#01fe7f",
         tabBarInactiveTintColor: "#fff",
         // headerRight: () => <HomeIcon />,
         // headerLeft: () => <BackButton />,
@@ -23,7 +24,7 @@ const AppBottomTabs = () => {
         },
         tabBarStyle: {
           height: 70,
-          backgroundColor: "#000000",
+          backgroundColor: colors.blue,
           borderTopWidth: 0,
           elevation: 0,
           shadowOpacity: 0,
@@ -31,13 +32,13 @@ const AppBottomTabs = () => {
       }}
     >
       <Tab.Screen
-        name="rules"
-        component={RulesScreen}
+        name="theory"
+        component={TheoryStack}
         options={{
           tabBarIcon: ({ color, size }) => (
             <Feather name="book-open" size={size} color={color} />
           ),
-          title: "Правила",
+          title: "Теорія",
         }}
       />
       <Tab.Screen
